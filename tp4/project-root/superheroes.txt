@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "nombreSuperHeroe": "Spiderman",
+        "nombreReal": "Peter Parker",
+        "nombreSociedad": "Vigilante",
+        "edad": 25,
+        "planetaOrigen": "Tierra",
+        "debilidad": "Radioactiva",
+        "poder":["Trepar paredes", "sentido aractido", "super fuerza", "Agilidad"],
+        "HabilidadEspecial": "Redes de telaraña",
+        "Aliado": ["Ironman"],
+        "enemigo": ["Duende verde"]
+    },
+
+    {
+        "id": 2,
+        "nombreSuperHeroe": "Ironman",
+        "nombreReal": "Tony Stark",
+        "nombreSociedad": "Vigilante",
+        "edad": 45,
+        "planetaOrigen": "Tierra",
+        "debilidad": "Depende de la tecnologia",
+        "poder":["Armadura blindada", "Volar", "Laseres"],
+        "HabilidadEspecial": "Ingenieria avanzada",
+        "Aliado": ["Spiderman"],
+        "enemigo": ["Mandarin"]
+    },
+
+    {
+        "id": 3,
+        "nombreSuperHeroe" :"Thor",
+        "nombreReal": "Thor Odinson",
+        "nombreSociedad": "Dios del Trueno",
+        "edad": 1000,
+        "planetaOrigen": "Asgard",
+        "debilidad": "Destruir su martillo",
+        "poder":["Controlar el trueno", "Fuerza sobrehumana", "Inmortal"],
+        "HabilidadEspecial": "Invocacion de tormentas",
+        "Aliado": ["Loki"],
+        "enemigo": ["Hela"]
+    }
+
+
+]

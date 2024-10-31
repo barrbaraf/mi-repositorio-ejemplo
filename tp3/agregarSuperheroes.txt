@@ -6,4 +6,7 @@
     { "id": 6, "nombreSuperheroe": "Captain america", "nombreReal": "Steve rogers", "nombreSociedad": "Vigilante", "edad": 103, "planetaOrigen": "Tierra", "debilidad": "No tiene habilidades sobrehumanas", "poder": ["Fuerza aumentada", "Agilidad"], "habilidadEspecial": "Escudo indestructible", "aliado": ["Bucky barnes"], "enemigo": ["Red skull"]},
 
     { "id": 7, "nombreSuperheroe": "Doctor strange", "nombreReal": "Stephen strange", "nombreSociedad": "Hechicero supremo", "edad": 40, "planetaOrigen": "Tierra", "debilidad": "Desconocida", "poder": ["Magia", "Teletransportacion"], "habilidadEspecial": "Hechizos poderosos", "aliado": ["Wong"], "enemigo": ["Dormammu"]}
-]  
+
+
+
+]
